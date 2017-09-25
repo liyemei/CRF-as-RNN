@@ -1,6 +1,6 @@
 # CRF-as-RNN
 <Conditional Random Fields as Recurrent Neural Networks>
-##  基于caffe vs2013的win10工程
+ 基于caffe vs2013的win10工程
 下载后编译即可使用，编译方法同微软
 
 其他包含新添层参考：https://github.com/liyemei/caffe-segnet
