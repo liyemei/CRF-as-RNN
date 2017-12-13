@@ -8,4 +8,6 @@
 example文件下包含CRF-as-RNN demo
 
 .caffemodel下载链接：http://pan.baidu.com/s/1o8E7FoI 密码：pjm5
+
+![image](https://github.com/liyemei/CRF-as-RNN/blob/master/examples/CRF/matlab-scripts/output.png?raw=true)
  
